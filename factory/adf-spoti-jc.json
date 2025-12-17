@@ -1,0 +1,9 @@
+{
+	"name": "adf-spoti-jc",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c7240871-a639-4bbf-bfcd-94920dc43c45",
+		"tenantId": "2909d7c8-bc65-4960-a1b4-ace5e4e1f0de"
+	}
+}
